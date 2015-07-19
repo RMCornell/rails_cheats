@@ -6,4 +6,5 @@ Topics:
 
 1. Starting a Rails Project
 2. Rails Generators
+3. Creating Routes
 

@@ -52,6 +52,9 @@ If you elect not to start with the built in UnitTest Framework you will want to 
 ## Adding Jasmine
     From Gemfile add:
         gem 'jasmine'
+        
+    From Terminal:
+        bundle install
     
     From Terminal:
         rails generate jasmine:install
